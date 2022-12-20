@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DhanushiRajapaksha
 - 👀 I’m interested in web developing and desiging
 - 🌱 I’m currently learning at Rajarata University of Sri Lanka as an IT undergraduate
-- 📫 How to reach me http://www.linkkedin.com/in/dhanushi-rajapaksha
+- 📫 How to reach me http://www.linkedin.com/in/dhanushi-rajapaksha
 
 <!---
 DhanushiRajapaksha/DhanushiRajapaksha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
